@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite" parallel="false">
-  <test name="Test">
+  <test name="Testcase">
     <classes>
-      <class name="com.javacodegeeks.testng.maven.TestNgMavenExampleTet"/>
+	    <class name="com.javacodegeeks.testng.maven.TestNgMavenExampleTest"/>
+
     </classes>
   </test> 
 </suite> 
