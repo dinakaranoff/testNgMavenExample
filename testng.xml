@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Suite " parallel="false">
-  <test name="Dina Revert">
+<suite name="Suite" parallel="false">
+	<test name="Dina">
     <classes>
 	    <class name="com.javacodegeeks.testng.maven.TestNgMavenExampleTest"/>
 
