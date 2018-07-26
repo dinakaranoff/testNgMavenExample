@@ -1,6 +1,8 @@
 Git branch_1
 Not staged
 created Master_2
+finalfor master
 2 time
 Test
 Final
+
