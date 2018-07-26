@@ -1,0 +1,8 @@
+Git branch_1
+Not staged
+created Master_2
+<<<<<<< HEAD
+2 time
+=======
+Test
+>>>>>>> 528ceb546494aa58f758ccb48c28ad3be172934e
