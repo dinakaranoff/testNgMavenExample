@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Git branch_1
 Not staged
-=======
 created Master_2
->>>>>>> 2af4fc0b364f30ca37ba0f3686f534add344b60d
+Test
